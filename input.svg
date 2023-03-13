@@ -1,0 +1,49 @@
+<svg xmlns:spine="http://powtoon.com/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 70 62" style="enable-background:new 0 0 70 62;" xml:space="preserve" naming="foot-L 3-cross-lines-sneakers foot-L">
+<style type="text/css">
+	.c0-4b84-7fffffd3{fill:#F7D7B9;}
+	.c1-4b84-7fffffd3{fill:#E8AE84;}
+	.c2-4b84-7fffffd3{fill:#F0F0F0;}
+	.c4-4b84-7fffffd3{fill:#39354D;}
+	.c11-4b84-7fffffd3{fill:#999999;}
+	.c6-4b84-7fffffd3{fill:#58575E;}
+	.c8-4b84-7fffffd3{fill:#FFFFFF;}
+	.c12-4b84-7fffffd3{display:none;}
+	.c15-4b84-7fffffd3{display:inline;fill:none;stroke:#CC0000;stroke-width:0.1;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<path spine:tagging="skin.primary.base" class="c0-4b84-7fffffd3" d="M8.5,30.5c0.3-1.1,0.7-2.2,1.1-3.4c0.7-1.5,1.8-2.8,3.3-3.6     c2.7-2.3,6.8-2.2,9.3,0.3c1.9,1.5,3.1,3.9,2.9,6.3c0,0,1.1,1,1.6,1.5l3.2,2l3,2.1l5.2,3.4c0.7,0.1,6.8,1.5,6.8,1.5     c2.3,0.5,5.8,1.1,7.5,1.7c6.3,4.5-45.9-3.5-45.3-6.8l0,0c0.1-0.2,0.1-0.4,0.1-0.6c0.3-1.2,0.6-2.3,1-3.4l0,0L8.5,30.5z" style="fill: rgb(247, 215, 185);"/>
+		</g>
+		<g>
+			<path spine:tagging="skin.primary.shadow" class="c1-4b84-7fffffd3" d="M16.3,28.4l0.5-0.2v0.4l-0.5,1.1l-0.7,1.8L15,33.7l-0.1,1l0,1.2     c-0.6-0.2-1.2-0.7-1.6-1.1l0.1-0.7l0.2-1.2l0.1-0.3v-0.3l0.3-0.8l0.8-1.1c0.2-0.3,0.4-0.5,0.6-0.8l0.1-0.2L16.3,28.4z" style="fill: rgb(232, 174, 132);"/>
+		</g>
+		<g>
+			<path class="c2-4b84-7fffffd3" d="M55.2,47.3c-0.2,2-2.1,3-3.5,3l0,0l-45.3,0l0-3.8L55.2,47.3z" style=""/>
+			<g>
+				<path class="c4-4b84-7fffffd3" d="M26.7,31.6l-0.2-0.2h-0.1c-8.5,5.5-13.5,5.6-14.8,0.2c-1.1-0.5-2.3-0.6-3.5-0.3c-0.4,1.1-0.7,2.2-1,3.3v0.1      l0.1-0.3c2.1,1.6,4.8,2.3,7.3,2.1c3.7-0.3,7.3-1.4,10.6-3c0.8-0.3,1.7-0.8,2.6-1.3L26.7,31.6z" style="fill: rgb(57, 53, 76);" spine:tagging="footwear.primary.base"/>
+				<path class="c4-4b84-7fffffd3" d="M52.5,41.9c-1.5-0.7-13.7-3-14.4-3.1l-1.7-1.1l-0.3-0.2l-2-1.4l0.3,0.4c0.7,1.1,0.4,2-0.9,2.6l-0.7,0.3      c-2.8,1.4-5.2,3.8-6.7,6.5L55.3,46C55.1,44.1,54.1,42.6,52.5,41.9z" style="fill: rgb(57, 53, 76);" spine:tagging="footwear.primary.base"/>
+			</g>
+			<path class="c11-4b84-7fffffd3" d="M26.2,45.7L55.3,46l-0.1,1.3L6.4,46.9c0-0.5,0-0.9,0-1.3l19.3,0.1H26.2L26.2,45.7z" style=""/>
+			<path spine:tagging="footwear.secondary.base" class="c6-4b84-7fffffd3" d="M34.1,36.2L33.8,36L34.1,36.2L34.1,36.2 M26.2,45.8l-9.3-0.1     L6.4,45.6c-0.2-3.4,0-6.9,0.6-10.2c3.8,3.4,10,3.2,18.5-0.8c3.1,1.1,5.4,2.3,6.6,4c-2.8,1.6-4.1,4.1-5.7,7.1l0,0 M28.9,32.9     l4.9,2.9c0.1,0.6,0.5,1.1,0.5,1.2c0,0-0.2,1-0.9,1.3c0,0-0.6-0.1-0.6-0.2c-1.1-1.7-3.1-3.1-6.2-4.1L28.9,32.9 M7,35.1     c0-0.1,0.1-0.2,0.1-0.3v0.1L7,35.1z" style="fill: rgb(88, 87, 94);"/>
+			<path class="c8-4b84-7fffffd3" d="M26.2,45.9h-1c0.1-0.1,0.2-0.4,0.3-0.5l0.5-0.1L26.2,45.9z" style=""/>
+			<path class="c8-4b84-7fffffd3" d="M7.1,34.3c2.1,1.7,4.7,2.4,7.4,2.2c3.6-0.3,10.5-3,10.5-3c1-0.4,2.8-1.4,2.8-1.4l1.4,0.8L26.9,34     c3,1.1,4.8,2.4,6,4.1c0.1,0.1,0.2,0.1,0.3,0l0,0c0.7-0.3,1-0.5,0.9-1.1c-0.1-0.6-0.2-0.9-0.3-1.2l0.8,0.6     c0.7,1.1,0.4,2.1-0.9,2.7l-0.8,0.4c-2.8,1.3-5.3,3.6-6.7,6.4l-0.7-0.5c1.5-2.7,3.6-5.1,6.3-6.8c-1.1-1.7-3.1-2.9-6.4-3.9     c-5.8,2.6-10.4,3.5-14,2.9c-1.7-0.3-3.2-1.1-4.5-2.1L7.1,34.3z" style=""/>
+		</g>
+		<g>
+			<polygon class="c11-4b84-7fffffd3" points="32.7,36.1 32.3,35.9 32.9,34.8 33.3,35    " style=""/>
+		</g>
+		<g>
+			<polygon class="c11-4b84-7fffffd3" points="31.1,35.2 30.7,34.9 31.4,33.9 31.8,34.1    " style=""/>
+		</g>
+		<g>
+			
+				<rect x="29.4" y="33.4" transform="matrix(0.5893 -0.8079 0.8079 0.5893 -14.8693 38.002)" class="c11-4b84-7fffffd3" width="1.2" height="0.5" style=""/>
+		</g>
+	</g>
+	<g class="c12-4b84-7fffffd3">
+		<circle class="c15-4b84-7fffffd3" cx="51.6" cy="46.7" r="3.6"/>
+		<line class="c15-4b84-7fffffd3" x1="51.7" y1="43.1" x2="51.7" y2="50.3"/>
+		<line class="c15-4b84-7fffffd3" x1="48" y1="46.7" x2="55.2" y2="46.8"/>
+	</g>
+</g>
+</svg>

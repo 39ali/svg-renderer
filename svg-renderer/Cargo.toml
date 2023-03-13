@@ -1,0 +1,22 @@
+[package]
+name = "svg-renderer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+msdfgen-rs = { path = "../msdfgen-rs" }
+image = "0.24.5"
+glutin = { version = "0.28"}
+glow = "0.11.2"
+#winit = "0.27.5"
+cxx = "1.0.86"
+memoffset = "0.8.0"
+usvg = "0.28.0"
+rect_packer = "0.2.1"
+glam = "0.22.0"
+geo = "0.23.1"
+geo-booleanop = "0.2.1"
+lyon = "1.0.1"
+kurbo = "0.9.0"
